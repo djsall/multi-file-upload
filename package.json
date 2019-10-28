@@ -16,5 +16,9 @@
     "routes"
   ],
   "author": "DjSall",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
 }
